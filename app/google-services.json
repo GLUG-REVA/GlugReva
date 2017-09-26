@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "878270057818",
+    "firebase_url": "https://fir-demo-8316b.firebaseio.com",
+    "project_id": "fir-demo-8316b",
+    "storage_bucket": "fir-demo-8316b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878270057818:android:40748a2e9f93f707",
+        "android_client_info": {
+          "package_name": "com.anuj.glug1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878270057818-p9ava33r41dmq678jn2s42u2h8qm97o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BeyjG6zUSepnEOyAasUPhfnPpxsUJ1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878270057818:android:320fc9e554ef7eb9",
+        "android_client_info": {
+          "package_name": "com.anuj.glugreva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878270057818-p9ava33r41dmq678jn2s42u2h8qm97o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BeyjG6zUSepnEOyAasUPhfnPpxsUJ1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

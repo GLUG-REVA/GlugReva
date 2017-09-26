@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/conus"
+            android:icon="@drawable/mes"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/abtus"
+            android:icon="@drawable/iff"
+            android:title="Who are we?" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/fbk"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Feedback" />
+
+
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
